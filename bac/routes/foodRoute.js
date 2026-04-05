@@ -1,6 +1,6 @@
 import express from "express";
 import multer from "multer";
-import { addFood, listFood, removeFood } from "../controllers/foodcontroller.js";
+import { addFood, listFood, removeFood } from "../controllers/foodController.js";
 
 const router = express.Router();
 

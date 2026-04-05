@@ -58,7 +58,28 @@ Admin Panel: https://your-admin-link.com
 
 ### Admin Dashboard
 ![Admin](./screenshots/admin.png)
+## 🖼️ Application Preview
 
+### 🔐 Login Page
+<img src="screenshots/login.png" width="800"/>
+
+### 🏠 Home Page
+<img src="screenshots/home.png" width="800"/>
+
+### 🍔 Food Items
+<img src="screenshots/food.png" width="800"/>
+
+### 🛒 Cart Page
+<img src="screenshots/cart.png" width="800"/>
+
+### 💳 Checkout Page
+<img src="screenshots/checkout.png" width="800"/>
+
+### 📦 Orders Page
+<img src="screenshots/orders.png" width="800"/>
+
+### 🛠️ Admin Dashboard
+<img src="screenshots/admin.png" width="800"/>
 ---
 
 ## 🏗️ Tech Stack

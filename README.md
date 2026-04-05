@@ -4,13 +4,7 @@ A full-stack Food Delivery Web Application that allows users to browse food item
 
 ---
 
-## 🚀 Live Demo
 
-Frontend: https://your-frontend-link.com  
-Backend API: https://your-backend-link.com  
-Admin Panel: https://your-admin-link.com  
-
----
 
 ## 📌 Features
 
@@ -35,51 +29,27 @@ Admin Panel: https://your-admin-link.com
 ---
 
 ## 🖼️ Screenshots
-
-(Add your project images inside a folder named `screenshots`)
-
-### Login Page
-![Login](./screenshots/login.png)
-
-### Home Page
-![Home](./screenshots/home.png)
-
-### Food Items
-![Food](./screenshots/food.png)
-
-### Cart Page
-![Cart](./screenshots/cart.png)
-
-### Checkout Page
-![Checkout](./screenshots/checkout.png)
-
-### Orders Page
-![Orders](./screenshots/orders.png)
-
-### Admin Dashboard
-![Admin](./screenshots/admin.png)
 ## 🖼️ Application Preview
 
-### 🔐 Login Page
-<img src="screenshots/login.png" width="800"/>
+### 🔐 admin panel/add items
+<img src="IMG-20260405-WA0018.jpg" width="800"/>
 
-### 🏠 Home Page
-<img src="screenshots/home.png" width="800"/>
+### 🏠 admin panel/order list
+<img src="IMG-20260405-WA0019.jpg  " width="800"/>
 
-### 🍔 Food Items
-<img src="screenshots/food.png" width="800"/>
+### 🍔 user/ cart
+<img src="IMG-20260405-WA0020.jpg" width="800"/>
 
-### 🛒 Cart Page
-<img src="screenshots/cart.png" width="800"/>
+### 🛒 order items
+<img src="IMG-20260405-WA0021.jpg " width="800"/>
 
-### 💳 Checkout Page
-<img src="screenshots/checkout.png" width="800"/>
+### 💳 sign ,login in
+<img src="IMG-20260405-WA0022.jpg" width="800"/>
 
 ### 📦 Orders Page
-<img src="screenshots/orders.png" width="800"/>
+<img src="IMG-20260405-WA0023.jpg " width="800"/>
 
-### 🛠️ Admin Dashboard
-<img src="screenshots/admin.png" width="800"/>
+
 ---
 
 ## 🏗️ Tech Stack
@@ -117,8 +87,8 @@ food-delivery-app/
 ## ⚙️ Installation & Setup
 
 ### Clone Repository
-git clone https://github.com/your-username/food-delivery-app.git  
-cd food-delivery-app  
+git clone (https://github.com/Bimla-tech/foodelivery)  
+cd food-delivery-app 
 
 ---
 
@@ -195,17 +165,8 @@ POST /api/order
 GET /api/order/user  
 GET /api/order/admin  
 
----
 
-## 📊 Future Enhancements
 
-- Online payment integration (Stripe / Razorpay)
-- Live order tracking
-- Ratings & reviews
-- Push notifications
-- Mobile responsive UI improvements
-
----
 
 ## 🤝 Contributing
 
@@ -225,9 +186,9 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-profile  
+Bimla godara
+GitHub: https://github.com/Bimla-tech
+LinkedIn:https://www.linkedin.com/in/bimla-godara-8457792a0
 
 ---
 

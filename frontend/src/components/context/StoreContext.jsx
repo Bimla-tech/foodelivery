@@ -12,7 +12,7 @@ const StoreContextProvider = (props) => {
   //const url = "http://localhost:4000"; // Backend URL
   const url = process.env.REACT_APP_API_URL;
 
-fetch(`${url}/api/food`)
+//fetch(`${url}/api/food`)
 
   // ---------------- ADD ITEM TO CART ----------------
   const addToCart = async (itemId) => {

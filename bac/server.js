@@ -13,6 +13,10 @@ const port = process.env.PORT || 4000;
 app.use(express.json());
 app.use(cors());
 
+app.get("/", (req, res) => {
+  res.send("Backend Running ✅");
+});
+
 app.use("/images",express.static("uploads"));
 
 app.use("/api/user",userRouter);
